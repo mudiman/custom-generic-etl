@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetItemResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+  <Timestamp>2011-10-31T10:00:55.331Z</Timestamp>
+  <Ack>Success</Ack>
+  <Version>745</Version>
+  <Build>E745_CORE_BUNDLED_14018742_R1</Build>
+  <Item>
+    <ApplicationData>ESP.42479.3188830.0.2308.0</ApplicationData>
+    <AttributeSetArray>
+      <AttributeSet attributeSetID="2934">
+        <Attribute attributeID="4150">
+          <Value>
+            <ValueLiteral>0</ValueLiteral>
+            <ValueID>-15</ValueID>
+          </Value>
+        </Attribute>
+      </AttributeSet>
+      <AttributeSet attributeSetID="2934">
+        <Attribute attributeID="4150">
+          <Value>
+            <ValueLiteral>0</ValueLiteral>
+            <ValueID>-15</ValueID>
+          </Value>
+        </Attribute>
+      </AttributeSet>
+    </AttributeSetArray>
+    <AutoPay>false</AutoPay>
+    <BuyerProtection>ItemEligible</BuyerProtection>
+    <BuyItNowPrice currencyID="USD">0.0</BuyItNowPrice>
+    <Country>GB</Country>
+    <Currency>GBP</Currency>
+    <Description>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml" lang="en"&gt;
+
+  &lt;head&gt;
+
+    &lt;!-- Generic Metatags --&gt;
+    &lt;title&gt;Office Shoes - Womens Sugar Peek A Boo Cut Out Pump Black Canvas Flats&lt;/title&gt;
+    &lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8" /&gt;
+    &lt;meta name="description" content="Office Shoes" /&gt;
+    &lt;meta name="keywords" content="Office Shoes" /&gt;
+    &lt;meta name="language" content="en-uk" /&gt;
+
+    &lt;meta name="version" content="Build 4.00" /&gt;
+    &lt;meta name="releasedate" content="19-11-2009" /&gt;
+    &lt;meta name="author" content="Mark Withers (info@esellerpro.com)" /&gt;
+    &lt;meta name="reply-to" content="info@eSellerPro.com" /&gt;
+    &lt;meta name="copyright" content="Copyright eSellerPro, eSellerPro.com" /&gt;
+
+    &lt;!-- Client Profile css --&gt;
+    &lt;!-- &lt;link href="http://ebaykit01.esp-digital2.com/ebayapps/ebaylistingcontrollers/controller-01.aspx?profile=000029officeshoes&amp;attributes=ss-adverts,ss-custom-client,ss-default,ss-dynamic-elements,ss-item-details-v2,ss-overrides&amp;seed=1" type="text/css" rel="stylesheet" /&gt; --&gt;
+
+    &lt;!-- Client Profile css --&gt;
+    &lt;link href="http://espimages.biz/listingtemplates-v4/officeshoes2/ss-adverts.css" type="text/css" rel="stylesheet" /&gt;
+    &lt;link href="http://espimages.biz/listingtemplates-v4/officeshoes2/ss-custom-client.css" type="text/css" rel="stylesheet" /&gt;
+
+    &lt;link href="http://espimages.biz/listingtemplates-v4/officeshoes2/ss-default.css" type="text/css" rel="stylesheet" /&gt;
+    &lt;link href="http://espimages.biz/listingtemplates-v4/officeshoes2/ss-dynamic-elements.css" type="text/css" rel="stylesheet" /&gt;
+    &lt;link href="http://espimages.biz/listingtemplates-v4/officeshoes2/ss-item-details-v2.css" type="text/css" rel="stylesheet" /&gt;
+    &lt;link href="http://espimages.biz/listingtemplates-v4/officeshoes2/ss-overrides.css" type="text/css" rel="stylesheet" /&gt; 
+
+    &lt;script type="text/javascript"&gt;
+
+      var queryUserId = "000015officeshoes";
+      var querySellerId = "506722441";
+      var queryItemId = ebayItemID;
+      var queryCategoryId = "45333";
+      var queryMethod = "1";
+      var queryStoreId = "0";
+      var queryClientId = "0";
+      var queryRefreshLapse = "3600";
+      var queryReturnCount = "5";
+      var queryCurrency = "gbp";
+
+    &lt;/script&gt;
+
+    &lt;script type="text/javascript"&gt;
+      domainPlg = "http://ebaykit01.esp-digital2.com/ebayapps/listingmenu/default.aspx?userid=" + queryUserId + "&amp;profileid=" + queryUserId + "&amp;sellerid=" + querySellerId + "&amp;itemid=" + queryItemId + "&amp;categoryid=" + queryCategoryId + "&amp;method=" + queryMethod + "&amp;storeid=" + queryStoreId + "&amp;clientid=" + queryClientId + "&amp;refreshlapse=" + queryRefreshLapse + "&amp;returncount=" + queryReturnCount + "&amp;currencyID=" + queryCurrency;
+    &lt;/script&gt;
+
+    &lt;script type="text/javascript"&gt;
+
+      var smlImageArray=new Array("http://images.esellerpro.com/2308/I/425/58/47112003_b1.jpg","http://images.esellerpro.com/2308/I/425/58/images_shoes_large_47112003_b1.jpg","http://images.esellerpro.com/2308/I/425/58/A.jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A.jpg","http://images.esellerpro.com/2308/I/425/58/A_20(4).jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A (4).jpg","http://images.esellerpro.com/2308/I/425/58/A_20(12).jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A (12).jpg");
+      var medImageArray=new Array("http://images.esellerpro.com/2308/I/425/58/47112003_b1.jpg","http://images.esellerpro.com/2308/I/425/58/images_shoes_large_47112003_b1.jpg","http://images.esellerpro.com/2308/I/425/58/A.jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A.jpg","http://images.esellerpro.com/2308/I/425/58/A_20(4).jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A (4).jpg","http://images.esellerpro.com/2308/I/425/58/A_20(12).jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A (12).jpg");
+      var lrgImageArray=new Array("http://images.esellerpro.com/2308/I/425/58/47112003_b1.jpg","http://images.esellerpro.com/2308/I/425/58/images_shoes_large_47112003_b1.jpg","http://images.esellerpro.com/2308/I/425/58/A.jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A.jpg","http://images.esellerpro.com/2308/I/425/58/A_20(4).jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A (4).jpg","http://images.esellerpro.com/2308/I/425/58/A_20(12).jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A (12).jpg");
+      // var smlImageArray=new Array("http://images.esellerpro.com/2308/I/425/58/47112003_z1.jpg","http://images.esellerpro.com/2308/I/425/58/images_product_zoom_47112003_z1.jpg","http://images.esellerpro.com/2308/I/425/58/47112003_b1.jpg","http://images.esellerpro.com/2308/I/425/58/images_shoes_large_47112003_b1.jpg","http://images.esellerpro.com/2308/I/425/58/A.jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A.jpg","http://images.esellerpro.com/2308/I/425/58/A_20(4).jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A (4).jpg","http://images.esellerpro.com/2308/I/425/58/A_20(12).jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A (12).jpg");
+      // var medImageArray=new Array("http://images.esellerpro.com/2308/I/425/58/47112003_z1.jpg","http://images.esellerpro.com/2308/I/425/58/images_product_zoom_47112003_z1.jpg","http://images.esellerpro.com/2308/I/425/58/47112003_b1.jpg","http://images.esellerpro.com/2308/I/425/58/images_shoes_large_47112003_b1.jpg","http://images.esellerpro.com/2308/I/425/58/A.jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A.jpg","http://images.esellerpro.com/2308/I/425/58/A_20(4).jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A (4).jpg","http://images.esellerpro.com/2308/I/425/58/A_20(12).jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A (12).jpg");
+      // var lrgImageArray=new Array("http://images.esellerpro.com/2308/I/425/58/47112003_z1.jpg","http://images.esellerpro.com/2308/I/425/58/images_product_zoom_47112003_z1.jpg","http://images.esellerpro.com/2308/I/425/58/47112003_b1.jpg","http://images.esellerpro.com/2308/I/425/58/images_shoes_large_47112003_b1.jpg","http://images.esellerpro.com/2308/I/425/58/A.jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A.jpg","http://images.esellerpro.com/2308/I/425/58/A_20(4).jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A (4).jpg","http://images.esellerpro.com/2308/I/425/58/A_20(12).jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A (12).jpg");
+
+      var currentImageIndex = 0;
+
+      var windowOpen;
+
+      function SwitchPreviewImage(imageIndex) {
+
+        var imgcheck = new Image();
+
+        imgcheck.onload = function () {
+          document.getElementById("MainEnlargeImage").src= lrgImageArray[imageIndex];
+          document.getElementById("MainEnlargeImage").alt = "Enlarged Preview " + imageIndex;
+          document.getElementById("MainEnlargeImage2").src= lrgImageArray[imageIndex];
+          document.getElementById("MainEnlargeImage2").alt = "Enlarged Preview " + imageIndex;
+        }
+
+        imgcheck.onerror = function () {
+
+          document.getElementById("MainEnlargeImage").src = "http://espimages.biz/listingtemplates-v4/officeshoes2/images/objects/300xNoImage.gif";
+          document.getElementById("MainEnlargeImage2").src = "http://espimages.biz/listingtemplates-v4/officeshoes2/images/objects/300xNoImage.gif";
+
+        }
+
+        imgcheck.src = medImageArray[imageIndex];
+        currentImageIndex = imageIndex - 1;
+
+      }
+
+      function ShowEnlargePopup() {
+
+        document.getElementById("Enlarge-Gallery-Wrapper").style.display='block';
+
+      }
+
+      function HideEnlargePopup() {
+
+        document.getElementById("Enlarge-Gallery-Wrapper").style.display='none';
+
+      }
+
+    &lt;/script&gt;
+
+  &lt;/head&gt;
+
+  &lt;body id="Listing-Template"&gt;
+
+    &lt;table class="Table-Frame"&gt;
+
+      &lt;tr&gt;
+
+        &lt;td&gt;
+
+          &lt;h1 class="Heading"&gt;Office Shoes - Womens Sugar Peek A Boo Cut Out Pump Black Canvas Flats&lt;/h1&gt;
+
+          &lt;div id="Headed-Background"&gt;
+
+            &lt;div id="Max-Width"&gt;
+
+              &lt;div id="Min-Width"&gt;
+
+                &lt;div id="Wrapper"&gt;
+
+                  &lt;div id="Faux-Shadow"&gt;
+
+                    &lt;div id="Faux-Body"&gt;
+
+                      &lt;div id="Content-Wrapper"&gt;
+
+                        &lt;!-- Page Container --&gt;
+
+                        &lt;div id="Header-Container"&gt;
+
+                          &lt;div id="Header-Menu"&gt;
+
+                            &lt;ul id="Header-Menu-UL-Left"&gt;
+
+                              &lt;li&gt;&lt;a href='http://stores.ebay.co.uk/OfficeShoes/Mens-Shoes-/_i.html?_fsub=820366011&amp;_sid=506722441&amp;_trksid=p4634.m322'&gt;MENS SHOES&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://stores.ebay.co.uk/OfficeShoes/Womens-Shoes-/_i.html?_fsub=820367011&amp;_sid=506722441&amp;_trksid=p4634.m322'&gt;WOMENS SHOES&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html_Kids_W0QQ_fsubZ820368011QQ_sidZ506722441QQ_trksidZp4634Q2em322'&gt;KIDS SHOES&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://stores.ebay.co.uk/OfficeShoes/Accessories-/_i.html?_fsub=1235555011&amp;_sid=506722441&amp;_trksid=p4634.m322'&gt;ACCESSORIES&lt;/a&gt;&lt;/li&gt;
+&lt;li class="last_blink"&gt;&lt;a href='http://stores.ebay.co.uk/OfficeShoes/Last-Chance-Deals-/_i.html?_fsub=2690839011&amp;_sid=506722441&amp;_trksid=p4634.m322'&gt;» Last Chance Deals «&lt;/a&gt;&lt;/li&gt;
+
+                            &lt;/ul&gt;
+
+                          &lt;/div&gt;
+
+                          &lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/" title="Office Shoes"&gt;&lt;img src="http://espimages.biz/listingtemplates-v4/officeshoes2/images/objects/logo.gif" alt="Office Shoes" id="Page-Logo" /&gt;&lt;/a&gt;
+
+                        &lt;/div&gt;
+
+                        &lt;div id="Content-Container"&gt;
+
+                          &lt;!-- Content Block --&gt;
+
+                          &lt;div id="Menu-Left"&gt;
+
+                            &lt;h2 class="Heading"&gt;Main Menu&lt;/h2&gt;
+
+                            &lt;!-- Left Menu Container --&gt;
+
+                            &lt;div class="Menu-Content-Block" id="MenuDDSearch"&gt;
+
+                              &lt;!-- Content Title --&gt;
+
+                              &lt;div class="Menu-Content-Search"&gt;
+
+                                &lt;div class="Menu-Content-Details"&gt;
+
+                                  &lt;h3 id="Search-Heading"&gt;Store search:&lt;/h3&gt;
+
+                                  &lt;form id="StoreHeaderSearchForm" name="search" method="get" action="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html__W0QQ_sidZ506722441" target="_blank"&gt;
+
+                                    &lt;ul class="Menu-UL-Search"&gt;
+
+                                      &lt;li&gt;
+
+                                        &lt;div class="Faux-Div Filters"&gt;
+
+                                          &lt;input type="text" name="_nkw" id="menu-searchquery" value="" onClick="document.getElementById('menu-searchquery').value='';" /&gt;
+                                          &lt;input type="submit" value="Search" id="menu-searchsubmit" /&gt;
+
+                                        &lt;/div&gt;
+
+                                      &lt;/li&gt;
+
+                                      &lt;li&gt;
+
+                                        &lt;div class="Faux-Div"&gt;
+
+                                          &lt;input type="checkbox" name="LH_TitleDesc" value="1" /&gt; in titles &amp;amp; description
+
+                                        &lt;/div&gt;
+
+                                      &lt;/li&gt;
+
+                                    &lt;/ul&gt;
+
+                                  &lt;/form&gt;
+
+                                &lt;/div&gt;
+
+                              &lt;/div&gt;
+
+                            &lt;/div&gt;
+
+                            &lt;ul class="Menu-UL"&gt;
+
+                              &lt;li class="Header-UL"&gt;
+                                &lt;h3&gt;Shop categories&lt;/h3&gt;
+                              &lt;/li&gt;
+
+                            &lt;/ul&gt;
+
+                            &lt;table cellpadding='0' cellspacing='0' border='0' class='ESP-ebCategories'&gt;&lt;tr class='TRID-820366011'&gt;&lt;td class='TD-Root ID-820366011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Mens-Shoes__W0QQ_fsubZ820366011QQ_sidZ506722441 ' title='Mens Shoes' class='ESP-ListingCategory'&gt;Mens Shoes&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-822458011'&gt;&lt;td class='TD-Sub ID-822458011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Boots__W0QQ_fsubZ822458011QQ_sidZ506722441 ' title='Boots' class='ESP-ListingSubCategory'&gt;Boots&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-822454011'&gt;&lt;td class='TD-Sub ID-822454011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Casual-Shoes__W0QQ_fsubZ822454011QQ_sidZ506722441 ' title='Casual Shoes' class='ESP-ListingSubCategory'&gt;Casual Shoes&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-822455011'&gt;&lt;td class='TD-Sub ID-822455011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Formal-Shoes__W0QQ_fsubZ822455011QQ_sidZ506722441 ' title='Formal Shoes' class='ESP-ListingSubCategory'&gt;Formal Shoes&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-822456011'&gt;&lt;td class='TD-Sub ID-822456011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_High-Trend__W0QQ_fsubZ822456011QQ_sidZ506722441 ' title='High Trend' class='ESP-ListingSubCategory'&gt;High Trend&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-822457011'&gt;&lt;td class='TD-Sub ID-822457011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Sandals-Beach-Shoes__W0QQ_fsubZ822457011QQ_sidZ506722441 ' title='Sandals &amp; Beach Shoes' class='ESP-ListingSubCategory'&gt;Sandals &amp; Beach Shoes&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-1302402011'&gt;&lt;td class='TD-Sub ID-1302402011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Designer-Clearance__W0QQ_fsubZ1302402011QQ_sidZ506722441 ' title='Designer Clearance' class='ESP-ListingSubCategory'&gt;Designer Clearance&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-1835717011'&gt;&lt;td class='TD-Sub ID-1835717011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Slippers__W0QQ_fsubZ1835717011QQ_sidZ506722441 ' title='Slippers' class='ESP-ListingSubCategory'&gt;Slippers&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-1835716011'&gt;&lt;td class='TD-Sub ID-1835716011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Trainers__W0QQ_fsubZ1835716011QQ_sidZ506722441 ' title='Trainers' class='ESP-ListingSubCategory'&gt;Trainers&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-820367011'&gt;&lt;td class='TD-Root ID-820367011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Womens-Shoes__W0QQ_fsubZ820367011QQ_sidZ506722441 ' title='Womens Shoes' class='ESP-ListingCategory'&gt;Womens Shoes&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-822502011'&gt;&lt;td class='TD-Sub ID-822502011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Flats__W0QQ_fsubZ822502011QQ_sidZ506722441 ' title='Flats' class='ESP-ListingSubCategory'&gt;Flats&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-1835720011'&gt;&lt;td class='TD-Sub ID-1835720011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Heels__W0QQ_fsubZ1835720011QQ_sidZ506722441 ' title='Heels' class='ESP-ListingSubCategory'&gt;Heels&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-1836735011'&gt;&lt;td class='TD-Sub ID-1836735011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Boots__W0QQ_fsubZ1836735011QQ_sidZ506722441 ' title='Boots' class='ESP-ListingSubCategory'&gt;Boots&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-1302405011'&gt;&lt;td class='TD-Sub ID-1302405011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Designer-Clearance__W0QQ_fsubZ1302405011QQ_sidZ506722441 ' title='Designer Clearance' class='ESP-ListingSubCategory'&gt;Designer Clearance&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-822501011'&gt;&lt;td class='TD-Sub ID-822501011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Sandals-Beach-Shoes__W0QQ_fsubZ822501011QQ_sidZ506722441 ' title='Sandals &amp; Beach Shoes' class='ESP-ListingSubCategory'&gt;Sandals &amp; Beach Shoes&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-1835718011'&gt;&lt;td class='TD-Sub ID-1835718011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Slippers__W0QQ_fsubZ1835718011QQ_sidZ506722441 ' title='Slippers' class='ESP-ListingSubCategory'&gt;Slippers&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-1835719011'&gt;&lt;td class='TD-Sub ID-1835719011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Trainers__W0QQ_fsubZ1835719011QQ_sidZ506722441 ' title='Trainers' class='ESP-ListingSubCategory'&gt;Trainers&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-820368011'&gt;&lt;td class='TD-Root ID-820368011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Kids__W0QQ_fsubZ820368011QQ_sidZ506722441 ' title='Kids' class='ESP-ListingCategory'&gt;Kids&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-2600520011'&gt;&lt;td class='TD-Sub ID-2600520011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Girls'-Shoes__W0QQ_fsubZ2600520011QQ_sidZ506722441 ' title='Girls' Shoes' class='ESP-ListingSubCategory'&gt;Girls' Shoes&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-2600521011'&gt;&lt;td class='TD-Sub ID-2600521011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Boys'-Shoes__W0QQ_fsubZ2600521011QQ_sidZ506722441 ' title='Boys' Shoes' class='ESP-ListingSubCategory'&gt;Boys' Shoes&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-2742220011'&gt;&lt;td class='TD-Root ID-2742220011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Designer-Clearance__W0QQ_fsubZ2742220011QQ_sidZ506722441 ' title='Designer Clearance' class='ESP-ListingCategory'&gt;Designer Clearance&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-2757766011'&gt;&lt;td class='TD-Sub ID-2757766011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Womens__W0QQ_fsubZ2757766011QQ_sidZ506722441 ' title='Womens' class='ESP-ListingSubCategory'&gt;Womens&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-2757767011'&gt;&lt;td class='TD-Sub ID-2757767011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Mens__W0QQ_fsubZ2757767011QQ_sidZ506722441 ' title='Mens' class='ESP-ListingSubCategory'&gt;Mens&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-2757768011'&gt;&lt;td class='TD-Sub ID-2757768011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Kids__W0QQ_fsubZ2757768011QQ_sidZ506722441 ' title='Kids' class='ESP-ListingSubCategory'&gt;Kids&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-2690839011'&gt;&lt;td class='TD-Root ID-2690839011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Last-Chance-Deals__W0QQ_fsubZ2690839011QQ_sidZ506722441 ' title='Last Chance Deals' class='ESP-ListingCategory'&gt;Last Chance Deals&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-2757719011'&gt;&lt;td class='TD-Sub ID-2757719011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Womens__W0QQ_fsubZ2757719011QQ_sidZ506722441 ' title='Womens' class='ESP-ListingSubCategory'&gt;Womens&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-2757720011'&gt;&lt;td class='TD-Sub ID-2757720011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Mens__W0QQ_fsubZ2757720011QQ_sidZ506722441 ' title='Mens' class='ESP-ListingSubCategory'&gt;Mens&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-2757721011'&gt;&lt;td class='TD-Sub ID-2757721011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Kids__W0QQ_fsubZ2757721011QQ_sidZ506722441 ' title='Kids' class='ESP-ListingSubCategory'&gt;Kids&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-1235555011'&gt;&lt;td class='TD-Root ID-1235555011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Accessories__W0QQ_fsubZ1235555011QQ_sidZ506722441 ' title='Accessories' class='ESP-ListingCategory'&gt;Accessories&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-2952713011'&gt;&lt;td class='TD-Root ID-2952713011'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Mid-Season-Sale__W0QQ_fsubZ2952713011QQ_sidZ506722441 ' title='Mid Season Sale' class='ESP-ListingCategory'&gt;Mid Season Sale&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class='TRID-1'&gt;&lt;td class='TD-Root ID-1'&gt;&lt;a href='http://stores.shop.ebay.co.uk/OfficeShoes_Other__W0QQ_fsubZ1QQ_sidZ506722441 ' title=' Other' class='ESP-ListingCategory'&gt; Other&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+                                                        
+                                                        &lt;a href="http://pentagon-interactive.co.uk/" class="pp_logo"&gt;&lt;img src="http://pentactivehosting.com/images/pentagon.png" border="0"/&gt;&lt;/a&gt;
+
+                            &lt;!-- End Menu Left Elements --&gt;
+
+                          &lt;/div&gt;
+
+                          &lt;!-- Jump to Content Anchor --&gt;
+
+                          &lt;a name="contentanchor"&gt;&lt;/a&gt;
+
+                          &lt;div id="Content"&gt;
+
+                            &lt;h2 class="Heading"&gt;Main Content&lt;/h2&gt;
+
+                            &lt;div id="Content-Flow-Container"&gt;
+
+                              &lt;!-- We only show the container for thumbnails if there is more than 1 image to view --&gt;
+
+                              &lt;div id="Enlarge-Gallery-Wrapper" style="display: none;"&gt;
+
+                                &lt;table class="Enlargement-Table2"&gt;
+
+                                  &lt;tr class="Row1"&gt;
+
+                                    &lt;td&gt;
+
+                                      &lt;a href="javascript:HideEnlargePopup()" title="Show Enlarged Preview"&gt;&lt;img src="http://images.esellerpro.com/2308/I/425/58/47112003_z1.jpg" alt="Enlarged Preview" id="MainEnlargeImage2" style="max-width: 600px;" /&gt;&lt;/a&gt;
+
+                                    &lt;/td&gt;
+
+                                  &lt;/tr&gt;
+
+                                  &lt;tr class="Row1"&gt;
+
+                                    &lt;td&gt;
+
+                                      &lt;span id="HideEnlargeText"&gt;&lt;a href="javascript:HideEnlargePopup()" title="Close Image"&gt;Close Image&lt;/a&gt;&lt;/span&gt;
+
+                                    &lt;/td&gt;
+
+                                  &lt;/tr&gt;
+
+                                &lt;/table&gt;
+
+                              &lt;/div&gt;
+
+                              &lt;div class="Content-Wide Image-Thumbnail-Outer-Container" id="Additional-Images"&gt;
+
+                                &lt;div class="Content-Wide-Top"&gt;&lt;!-- No Content --&gt;&lt;/div&gt;
+
+                                &lt;div id="Thumbnail-Image-Container"&gt;
+
+                                  
+
+                                    &lt;div class="Brand-Heading"&gt;
+
+                                      &lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html__W0QQ_sidZ506722441?_nkw=Sugar&amp;submit=GO" title="Seach for other products by Sugar"&gt;&lt;img src="http://espimages.biz/imp/officeshoes/brands/Sugar.gif" alt="Seach for other products by Sugar" title="Seach for other products by Sugar" class="Brand-Logo"&gt;&lt;/a&gt;
+
+                                      &lt;img src="http://www.office.co.uk/img/ebay/ebay-logo-exclusives.gif" alt="ebay exclusive" class="eBay-Exc"&gt;
+
+                                    &lt;/div&gt;
+
+                                  
+
+                                  &lt;div id="Gallery-Wrapper"&gt;
+
+                                    &lt;table class="Enlargement-Table"&gt;
+
+                                      &lt;tr class="Row1"&gt;
+
+                                        &lt;td&gt;
+
+                                          &lt;a href="javascript:ShowEnlargePopup()" title="Show Enlarged Preview"&gt;&lt;img src="http://images.esellerpro.com/2308/I/425/58/47112003_z1.jpg" alt="Show Enlarged Preview" id="MainEnlargeImage" style="max-width: 300px;" /&gt;&lt;/a&gt;
+
+                                        &lt;/td&gt;
+
+                                      &lt;/tr&gt;
+
+                                    &lt;/table&gt;
+
+                                    &lt;p id="ShowEnlargeText"&gt;
+
+                                      &lt;script type="text/javascript"&gt;
+                                        &lt;!--
+                                          document.write("&lt;a href='javascript:ShowEnlargePopup()' title='Show Enlarged Preview'&gt;&lt;img alt='Zoom' src='http://espimages.biz/listingtemplates-v4/officeshoes2/images/objects/buttons/ebay-button-zoom.gif' id='ZoomButton' /&gt;&lt;/a&gt;");
+                                          document.write("&lt;a href='http://www.office.co.uk/perl/go.pl/spin_ebay.html?id=47112003060&amp;amp;item_id=" + queryItemId + "&amp;amp;item_desc=Womens Sugar Peek A Boo Cut Out Pump Black Canvas Flats' title='Show Enlarged Preview' target='_blank'&gt;&lt;img src='http://espimages.biz/listingtemplates-v4/officeshoes2/images/objects/buttons/ebay-button-spin.gif' alt='Zoom' id='SpinButton' /&gt;&lt;/a&gt;");
+                                        --&gt;
+                                      &lt;/script&gt;
+
+                                    &lt;/p&gt;
+
+                                  &lt;/div&gt;
+
+                                  &lt;div class="Image-Container" id="Image-Array"&gt;
+
+                                    &lt;script type="text/javascript"&gt;
+
+                                      // Create the array object
+
+                                      var ItemImagesArray=new Array("http://images.esellerpro.com/2308/I/425/58/47112003_b1.jpg","http://images.esellerpro.com/2308/I/425/58/images_shoes_large_47112003_b1.jpg","http://images.esellerpro.com/2308/I/425/58/A.jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A.jpg");
+                                      // var ItemImagesArray=new Array("http://images.esellerpro.com/2308/I/425/58/47112003_z1.jpg","http://images.esellerpro.com/2308/I/425/58/images_product_zoom_47112003_z1.jpg","http://images.esellerpro.com/2308/I/425/58/47112003_b1.jpg","http://images.esellerpro.com/2308/I/425/58/images_shoes_large_47112003_b1.jpg","http://images.esellerpro.com/2308/I/425/58/A.jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A.jpg","http://images.esellerpro.com/2308/I/425/58/A_20(4).jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A (4).jpg","http://images.esellerpro.com/2308/I/425/58/A_20(12).jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A (12).jpg","http://images.esellerpro.com/2308/I/425/58/A_20(20).jpg","http://images.esellerpro.com/2308/I/425/58/images_product_alternate_47112003_A (20).jpg","http://images.esellerpro.com/2308/I/425/58/47112003_t1.jpg","http://images.esellerpro.com/2308/I/425/58/sugar.gif","");
+
+                                      // We make sure the first image exists before we execute the displaying of the images
+
+                                      if (ItemImagesArray[1] != "") {
+
+                                        // Create the indexing variable
+
+                                        var ItemImagesArrayIndex = 1;
+
+                                        for (ItemImagesArrayIndex in ItemImagesArray) {
+
+                                          if (ItemImagesArray[ItemImagesArrayIndex] != "") {
+
+                                            // If we do have additional images, create the image object here
+
+                                            document.write("&lt;a href='#ebayphotohostinglisting' onclick='ShowEnlargePopup()' onmousemove='Javascript:SwitchPreviewImage(" + ItemImagesArrayIndex + ")' title='Preview " + ItemImagesArrayIndex + "'&gt;&lt;img src='" + ItemImagesArray[ItemImagesArrayIndex] + "' alt='Preview " + ItemImagesArrayIndex + "' width='96' class='Thumbnail-Image' /&gt;&lt;/a&gt;");
+
+                                            // Ok we write the dividers here
+
+                                            if (ItemImagesArrayIndex == 3) { document.write("&lt;div class='Image-Gallery-Divider'&gt;&lt;!-- No Content --&gt;&lt;/div&gt;"); }
+                                            if (ItemImagesArrayIndex == 6) { document.write("&lt;div class='Image-Gallery-Divider'&gt;&lt;!-- No Content --&gt;&lt;/div&gt;"); }
+                                            if (ItemImagesArrayIndex == 9) { document.write("&lt;div class='Image-Gallery-Divider'&gt;&lt;!-- No Content --&gt;&lt;/div&gt;"); }
+                                            if (ItemImagesArrayIndex == 12) { document.write("&lt;div class='Image-Gallery-Divider'&gt;&lt;!-- No Content --&gt;&lt;/div&gt;"); }
+
+                                          }
+
+                                        }
+
+                                      }
+
+                                    &lt;/script&gt;
+
+                                  &lt;/div&gt;
+
+                                  &lt;div class="Image-Gallery-Divider" id="Thumb-Divider"&gt;&lt;!-- No Content --&gt;&lt;/div&gt;
+
+                                  &lt;script type="text/javascript"&gt;
+
+                                    document.getElementById("Thumb-Divider").style.display='none';
+                                    document.getElementById("Image-Array").style.display='block';
+
+                                  &lt;/script&gt;
+
+                                &lt;/div&gt;
+
+                                &lt;div id="Item-Details-Wrapper"&gt;
+
+
+                                &lt;/div&gt;
+
+                                &lt;div class="Tab-Frame-01"&gt;
+
+                                  &lt;a name="contentframe"&gt;&lt;!-- No Content --&gt;&lt;/a&gt;
+
+                                  &lt;div class="Tab-Frame-Heading"&gt;
+
+                                    &lt;a href="javascript:SwitchFrame(1)" title="Product Info" class="Tab-Small" id="Tab-01"&gt;&lt;/a&gt;
+                                    &lt;a href="javascript:SwitchFrame(2)" title="Brands" class="Tab-Small" id="Tab-02"&gt;&lt;/a&gt;
+                                    &lt;a href="javascript:SwitchFrame(3)" title="Payments" class="Tab-Small" id="Tab-03"&gt;&lt;/a&gt;
+                                    &lt;a href="javascript:SwitchFrame(4)" title="Delivery" class="Tab-Small" id="Tab-04"&gt;&lt;/a&gt;
+                                    &lt;a href="javascript:SwitchFrame(5)" title="Returns" class="Tab-Small" id="Tab-05"&gt;&lt;/a&gt;
+
+                                  &lt;/div&gt;
+
+                                  &lt;div class="Content-Wide Content-Wide-Smaller" id="TF-01"&gt;
+
+                                    &lt;div class="Description-Container" id="Container-01"&gt;
+
+                                      &lt;h3 class="ItemTitle"&gt;Womens Sugar Peek A Boo Cut Out Pump Black Canvas Flats&lt;/h3&gt;
+                                                                            
+                                                                            
+
+                                      &lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;If you need to contact the customer service, please do so through &lt;a href="http://contact.ebay.co.uk/ws/eBayISAPI.dll?ReturnUserEmail&amp;amp;requested=officeshoes&amp;amp;redirect=0&amp;amp;iid=320624590181"&gt;&lt;strong&gt;eBay messages&lt;/strong&gt;&lt;/a&gt;, not PayPal.&lt;/p&gt;&lt;p&gt;Please note if your size is not listed, then we are permanantly out of stock of that size - sorry!&lt;br&gt;&lt;br&gt;We offer &lt;a href="javascript:SwitchFrame(4)" title="combined shipping"&gt;combined shipping discounts&lt;/a&gt; on all orders for just one delivery charge for up to 10 pairs of shoes. All items are sent by Courier.&lt;/p&gt;
+
+                                      &lt;table class="Specification-Table" summary="Specification Information"&gt;
+
+                                        &lt;tr&gt;&lt;th class="brandtitle"&gt;Brand &lt;/th&gt;&lt;td class="brandvalue"&gt;&lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html__W0QQ_sidZ506722441?_nkw=Sugar&amp;submit=GO" title="Seach for other products by Sugar"&gt;Sugar&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+                                        
+                                        /&lt;tr&gt;&lt;th class="colourtitle"&gt;Colour &lt;/th&gt;&lt;td class="colourvalue"&gt;&lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html__W0QQ_sidZ506722441?_nkw=Black&amp;submit=GO" title="Seach for other products in colour: Black"&gt;Black&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+                                        &lt;tr&gt;&lt;th class="rrptitle"&gt;RRP &lt;/th&gt;&lt;td class="rrpvalue"&gt;&amp;pound;25.00&lt;/td&gt;&lt;/tr&gt;
+                                                                                &lt;tr&gt;&lt;th class="bintitle"&gt;Buy it now price &lt;/th&gt;&lt;td class="binvalue"&gt;&amp;pound;8.00&lt;/td&gt;&lt;/tr&gt;
+                                        
+                                        
+                                        &lt;tr&gt;&lt;th class="shippingtitle"&gt;Shipping &lt;/th&gt;&lt;td class="shippingvalue"&gt;UK &amp;pound;3.50 [&lt;a href="javascript:SwitchFrame(4)" title="More Options"&gt;More Options&lt;/a&gt;]&lt;/td&gt;&lt;/tr&gt;
+                                        &lt;tr&gt;&lt;th class="vattitle"&gt;Vat &lt;/th&gt;&lt;td class="vatvalue"&gt;Inclusive&lt;/td&gt;&lt;/tr&gt;
+                                        &lt;tr&gt;&lt;th class="skutitle"&gt;SKU &lt;/th&gt;&lt;td class="skuvalue"&gt;47112003060&lt;/td&gt;&lt;/tr&gt;
+
+                                      &lt;/table&gt;
+
+                                    &lt;/div&gt;
+
+                                  &lt;/div&gt;
+
+                                  &lt;div class="Content-Wide Content-Wide-Smaller" id="TF-02"&gt;
+
+                                    &lt;div class="Description-Container" id="Container-02"&gt;
+
+                                      
+
+                                        &lt;p&gt;
+
+                                          &lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html__W0QQ_sidZ506722441?_nkw=Sugar&amp;submit=GO" title="Seach for other products by Sugar"&gt;
+                                            &lt;img src="http://espimages.biz/imp/officeshoes/brands/Sugar.gif" alt="Seach for other products by Sugar" title="Seach for other products by Sugar" class="Brands-Brand" /&gt;
+                                          &lt;/a&gt;
+
+                                          
+
+                                        &lt;/p&gt;
+
+                                      
+
+                                      
+
+                                    &lt;/div&gt;
+
+                                  &lt;/div&gt;
+
+
+                                  &lt;div class="Content-Wide Content-Wide-Smaller" id="TF-03"&gt;
+
+                                    &lt;div class="Description-Container" id="Container-03"&gt;
+
+                                      &lt;p&gt;At this time we only accept Paypal payments. &lt;/p&gt;
+&lt;img src="http://pics.ebaystatic.com/aw/pics/uk/paypal/imgLockup.gif" alt="We Accept PayPal" title="We Accept PayPal" /&gt;
+
+                                    &lt;/div&gt;
+
+                                  &lt;/div&gt;
+
+
+                                  &lt;div class="Content-Wide Content-Wide-Smaller" id="TF-04"&gt;
+
+                                    &lt;div class="Description-Container" id="Container-04"&gt;
+
+                                      &lt;p&gt;We aim to dispatch your order within 2-3 working days, in many cases orders are shipped next working day. Unfortunately we are currently unable to offer a guaranteed next day delivery. &lt;br&gt;&lt;br&gt;All items are sent by courier. On receipt of the goods a signature will be required.&lt;br&gt;
+&lt;table style="font-size: 90%;" width="450" id="Delivery-Table"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width="150" id="D-Row1"&gt;&lt;b&gt;Where&lt;/b&gt; &lt;/td&gt;
+&lt;td width="100" id="D-Row2"&gt;&lt;b&gt;Delivery cost&lt;/b&gt;&lt;/td&gt;
+&lt;td colspan="2" width="200" id="D-Row3"&gt;&lt;b&gt;Delivery times from order confirmation&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;b&gt;UK&lt;/b&gt;&lt;/td&gt;
+&lt;td&gt;&amp;pound;3.50&lt;/td&gt;
+&lt;td&gt;3-4 days&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;b&gt;Ireland&lt;/b&gt;&lt;/td&gt;
+&lt;td&gt;&amp;pound;10.00&lt;/td&gt;
+&lt;td&gt;Within 7 days&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;b&gt;European Union&lt;/b&gt;&lt;/td&gt;
+&lt;td&gt;&amp;pound;15.00&lt;/td&gt;
+&lt;td&gt;Within 7-10 days&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;b&gt;Rest of the world&lt;/b&gt;&lt;/td&gt;
+&lt;td&gt;&amp;pound;25.00&lt;/td&gt;
+&lt;td&gt;7-14 days&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Any taxes or duty fees incurred to ship abroad are the responsibility of the customer and these costs cannot be reclaimed from Office. Please note we do NOT deliver to International PO Boxes.&lt;/p&gt;
+&lt;p&gt;For European Union, please allow up to 10 working days from confirmation of order for delivery. For Rest of the world please allow up to 14 working days from confirmation of order for delivery.&lt;/p&gt;
+&lt;p&gt;Our courier will make 2 attempts to deliver a package or leave with a neighbour, should you be unable to collect the package on any of these attempts your order will be returned to us and we will charge again for a redelivery. &lt;/p&gt;
+
+                                    &lt;/div&gt;
+
+                                  &lt;/div&gt;
+
+
+                                  &lt;div class="Content-Wide Content-Wide-Smaller" id="TF-05"&gt;
+
+                                    &lt;div class="Description-Container" id="Container-05"&gt;
+
+                                      &lt;P&gt;&lt;STRONG&gt;RETURNS&lt;/STRONG&gt;&lt;BR&gt;&lt;BR&gt;If you wish to make a return, you can do so by sending unworn/unused shoes along with your invoice to the address below within 30 days of the invoice date. We'll refund the delivery charge you originally paid on orders if the full order is returned to us within 7 days of receipt. If an order is returned to us after 7 days from receipt, then we'll refund the delivery charge only if the goods are damaged, faulty or incorrect. Always ask for a "Proof of Posting certificate" as we cannot be held responsible for goods that get lost in transit. We recommend shoes are sent back by Recorded or Special Delivery. &lt;BR&gt;&lt;BR&gt;&lt;B&gt;OFFICE eBay returns &lt;BR&gt;LOADING BAYS 1-8 &lt;BR&gt;GATEHEAD ROAD &lt;BR&gt;MOORFIELD INDUSTRIAL ESTATE &lt;BR&gt;KILMARNOCK &lt;BR&gt;KA2 0BA &lt;BR&gt;&lt;BR&gt;&lt;/B&gt;We recommend you make a new purchase if the item is unsuitable as this is much quicker than exchanging. We can then simply refund the incorrect item. Once your goods are accepted back into stock you will be issued with a refund - usually within 7-10 working days.&lt;BR&gt;We will refund you via PayPal. Returns are not accepted in OFFICE stores.&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Please note you do NOT need to contact us to tell us you are returning your shoes. Please allow up to 10 working days before contacting us about your return.&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Unfortunately, as all of our stock is listed on eBay we may be unable to offer exchanges on returned items. Please send your goods back to us for a refund and if you want to buy a different size, colour, etc, &lt;STRONG&gt;please make a new purchase&lt;/STRONG&gt;. We regret returns can't be accepted in stores or concessions. If we have made a mistake, please contact us via eBay messages so we can sort out the problem immediately.&lt;/P&gt;
+&lt;P&gt;If the item is faulty or incorrectly dispatched we will be able to offer a refund for the product plus the cost of your return postage.If you think we’ve sent you the wrong thing, please double check the full description of the item on the listing, including the UK size before returning the item to us. We can only reimburse postage / delivery costs where the item is faulty or if we’ve sent the wrong thing. Unfortunately but we can’t take back &lt;B&gt;used&lt;/B&gt; goods which are unsuitable or do not fit. This is in addition to, and does not affect your consumer rights.&lt;/P&gt;
+&lt;/P&gt;
+
+                                    &lt;/div&gt;
+
+                                  &lt;/div&gt;
+
+                                  &lt;!-- Content Box Element --&gt;
+
+                                &lt;/div&gt;
+
+                                &lt;script type="text/javascript"&gt;
+
+                                  function SwitchFrame(FrameID) {
+
+                                    var FrameIndex = 1;
+
+                                    for (FrameIndex=1;FrameIndex&lt;=5;FrameIndex=FrameIndex+1)
+                                    {
+                                      if (FrameIndex != FrameID) {
+                                        document.getElementById("TF-0" + FrameIndex).style.display='none';
+                                        document.getElementById("Tab-0" + FrameIndex).className="Tab-Small";
+                                      } else {
+                                        document.getElementById("TF-0" + FrameIndex).style.display='block';
+                                        document.getElementById("Tab-0" + FrameIndex).className="Tab-Small Tab-Selected";
+                                      }
+                                    }
+
+                                  }
+
+                                  SwitchFrame(1);
+
+                                &lt;/script&gt;
+
+                                
+
+                                  &lt;div id="Save-Box"&gt;
+
+                                    &lt;img src="http://www.office.co.uk/img/ebay/percentage/percentage_68.gif" alt="Saving" /&gt;
+
+                                  &lt;/div&gt;
+
+                                
+
+                                &lt;!-- &lt;div class="Content-Wide-Footer"&gt; --&gt;
+
+                                  &lt;!-- No Content --&gt;
+
+                                &lt;!-- &lt;/div&gt; --&gt;
+
+                                &lt;div class="Content-Wide-Base"&gt;&lt;!-- No Content --&gt;&lt;/div&gt;
+
+                              &lt;/div&gt;
+&lt;link rel="stylesheet" type="text/css" href="http://pentactivehosting.com/officeshoes/related.css" media="all" /&gt;                        
+&lt;div class="off_rel"&gt;&lt;p&gt;Don't miss out. Our new HOT deals!&lt;/p&gt;&lt;script type="text/javascript"&gt;
+  var aurl = "src=";
+  var burl ="http://ilapi.ebay.com/ws/eBayISAPI.dll?EKServer&amp;ai=owwxrtby%7Etb&amp;bdrcolor=ffffff&amp;encode=UTF-8&amp;maxprice=&amp;minprice=&amp;num=10&amp;prvd=2&amp;query=Flats+Black&amp;sekaccentcolor=ffffff&amp;sekcatid=822502011&amp;sekfootercolor=ffffff&amp;sekfooterdisplay=0&amp;sekformat=0&amp;sekfsfooter=1+2+0&amp;sekfsitem=1+2+0&amp;sekfstitle=1+4+0&amp;sekitemlayout=1&amp;sektitledisplay=0&amp;si=officeshoes&amp;sort=MetaEndSort&amp;sortby=endtime&amp;sortdir=desc&amp;tbgcolor=ffffff&amp;title=Related+Items&amp;tlecolor=ffffff&amp;tlfcolor=FFFFFF";
+  document.write ("&lt;script type='text/javascript'"+aurl+burl+"&gt;");
+  document.write ('&lt;/s'+'cript&gt;');
+&lt;/script&gt;
+&lt;/div&gt;
+                              &lt;div id="Main-Advert"&gt;
+                                  &lt;object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="715" height="380"&gt;
+                                    &lt;param name="movie" value="http://widgets.company.com/officeshoes/gallery/mainpage/mpwidget_v1.swf"&gt;
+                                    &lt;param name="allowScriptAccess" value="always" /&gt;
+                                    &lt;param name="quality" value="high" /&gt;
+                                    &lt;param name="wmode" value="transparent" /&gt;
+                                    &lt;embed src="http://widgets.company.com/officeshoes/gallery/mainpage/mpwidget_v1.swf" wmode="transparent" quality="high" allowScriptAccess="always" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="715" height="380"&gt;&lt;/embed&gt;
+                                  &lt;/object&gt;
+                              &lt;/div&gt;
+
+                            &lt;/div&gt;
+
+                          &lt;/div&gt;
+
+                        &lt;/div&gt;
+
+                        &lt;div id="Size-Options"&gt;
+
+                          &lt;img src="http://espimages.biz/listingtemplates-v4/officeshoes2/images/objects/size-options-bg.gif" alt="" class="Float-Left" usemap="#Map" /&gt;
+
+                          &lt;map name="Map" id="Map"&gt;
+                            &lt;area shape="rect" coords="681,186,755,287" href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html_Mens_W0QQ_fsubZ820366011QQ_sidZ506722441?_nkw=12&amp;submit=GO" alt="12" /&gt;
+                            &lt;area shape="rect" coords="80,186,154,287" href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html_Mens_W0QQ_fsubZ820366011QQ_sidZ506722441?_nkw=6&amp;submit=GO" alt="6" /&gt;
+                            &lt;area shape="rect" coords="166,186,240,287" href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html_Mens_W0QQ_fsubZ820366011QQ_sidZ506722441?_nkw=7&amp;submit=GO" alt="7" /&gt;
+                            &lt;area shape="rect" coords="251,186,325,287" href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html_Mens_W0QQ_fsubZ820366011QQ_sidZ506722441?_nkw=8&amp;submit=GO" alt="8" /&gt;
+                            &lt;area shape="rect" coords="337,186,411,287" href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html_Mens_W0QQ_fsubZ820366011QQ_sidZ506722441?_nkw=9&amp;submit=GO" alt="9" /&gt;
+                            &lt;area shape="rect" coords="423,186,497,287" href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html_Mens_W0QQ_fsubZ820366011QQ_sidZ506722441?_nkw=10&amp;submit=GO" alt="10" /&gt;
+                            &lt;area shape="rect" coords="509,186,583,287" href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html_Mens_W0QQ_fsubZ820366011QQ_sidZ506722441?_nkw=10.5&amp;submit=GO" alt="10.5" /&gt;
+                            &lt;area shape="rect" coords="595,186,669,287" href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html_Mens_W0QQ_fsubZ820366011QQ_sidZ506722441?_nkw=11&amp;submit=GO" alt="11" /&gt;
+                            &lt;area shape="rect" coords="595,60,669,161" href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html_Womens_W0QQ_fsubZ820367011QQ_sidZ506722441?_nkw=UK+9&amp;submit=GO" alt="9" /&gt;
+                            &lt;area shape="rect" coords="509,60,583,161" href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html_Womens_W0QQ_fsubZ820367011QQ_sidZ506722441?_nkw=UK+8&amp;submit=GO" alt="8" /&gt;
+                            &lt;area shape="rect" coords="423,60,497,161" href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html_Womens_W0QQ_fsubZ820367011QQ_sidZ506722441?_nkw=UK+7&amp;submit=GO" alt="7" /&gt;
+                            &lt;area shape="rect" coords="337,60,411,161" href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html_Womens_W0QQ_fsubZ820367011QQ_sidZ506722441?_nkw=UK+6&amp;submit=GO" alt="6" /&gt;
+                            &lt;area shape="rect" coords="251,60,325,161" href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html_Womens_W0QQ_fsubZ820367011QQ_sidZ506722441?_nkw=UK+5&amp;submit=GO" alt="5" /&gt;
+                            &lt;area shape="rect" coords="166,60,240,161" href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html_Womens_W0QQ_fsubZ820367011QQ_sidZ506722441?_nkw=UK+4&amp;submit=GO" alt="4" /&gt;
+                            &lt;area shape="rect" coords="80,60,154,161" href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html_Womens_W0QQ_fsubZ820367011QQ_sidZ506722441?_nkw=UK+3&amp;submit=GO" alt="3" /&gt;
+                          &lt;/map&gt;
+
+                        &lt;/div&gt;
+
+                        &lt;div id="Brands-Box"&gt;
+
+                          &lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html__W0QQ_sidZ506722441?_nkw=fred+perry" title="Fred Perry" target="_blank"&gt;&lt;img src="http://espimages.biz/listingtemplates-v4/officeshoes2/images/brands/fred-perry.gif" alt="Fred Perry" class="Brand" /&gt;&lt;/a&gt;
+                          &lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html__W0QQ_sidZ506722441?_nkw=vans" title="Vans" target="_blank"&gt;&lt;img src="http://espimages.biz/listingtemplates-v4/officeshoes2/images/brands/vans.gif" alt="Vans" class="Brand" /&gt;&lt;/a&gt;
+                          &lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html__W0QQ_sidZ506722441?_nkw=ted+baker" title="Ted Baker London" target="_blank"&gt;&lt;img src="http://espimages.biz/listingtemplates-v4/officeshoes2/images/brands/ted-baker.gif" alt="Ted Baker London" class="Brand" /&gt;&lt;/a&gt;
+                          &lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html__W0QQ_sidZ506722441?_nkw=sugar" title="Sugar" target="_blank"&gt;&lt;img src="http://espimages.biz/listingtemplates-v4/officeshoes2/images/brands/sugar.gif" alt="Sugar" class="Brand" /&gt;&lt;/a&gt;
+                          &lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html__W0QQ_sidZ506722441?_nkw=rocket+dog" title="Rocket Dog" target="_blank"&gt;&lt;img src="http://espimages.biz/listingtemplates-v4/officeshoes2/images/brands/rocket-dog.gif" alt="Rocket Dog" class="Brand" /&gt;&lt;/a&gt;
+                          &lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html__W0QQ_sidZ506722441?_nkw=fly+london" title="Fly London" target="_blank"&gt;&lt;img src="http://espimages.biz/listingtemplates-v4/officeshoes2/images/brands/fly-london.gif" alt="Fly London" class="Brand" /&gt;&lt;/a&gt;
+                          &lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html__W0QQ_sidZ506722441?_nkw=dc" title="DC Shoes" target="_blank"&gt;&lt;img src="http://espimages.biz/listingtemplates-v4/officeshoes2/images/brands/dc.gif" alt="DC Shoes" class="Brand" /&gt;&lt;/a&gt;
+                          &lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html__W0QQ_sidZ506722441?_nkw=hudson" title="Hudson" target="_blank"&gt;&lt;img src="http://espimages.biz/listingtemplates-v4/officeshoes2/images/brands/hudson.gif" alt="Hudson" class="Brand" /&gt;&lt;/a&gt;
+                          &lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html__W0QQ_sidZ506722441?_nkw=blowfish" title="Blowfish Malibu" target="_blank"&gt;&lt;img src="http://espimages.biz/listingtemplates-v4/officeshoes2/images/brands/blowfish.gif" alt="Blowfish Malibu" class="Brand" /&gt;&lt;/a&gt;
+                          &lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html__W0QQ_sidZ506722441?_nkw=timberland" title="Timberland" target="_blank"&gt;&lt;img src="http://espimages.biz/listingtemplates-v4/officeshoes2/images/brands/timberland.gif" alt="Timberland" class="Brand" /&gt;&lt;/a&gt;
+                          &lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html__W0QQ_sidZ506722441?_nkw=kickers" title="Kickers" target="_blank"&gt;&lt;img src="http://espimages.biz/listingtemplates-v4/officeshoes2/images/brands/kickers.gif" alt="Kickers" class="Brand" /&gt;&lt;/a&gt;
+                          &lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html__W0QQ_sidZ506722441?_nkw=camper" title="Camper" target="_blank"&gt;&lt;img src="http://espimages.biz/listingtemplates-v4/officeshoes2/images/brands/camper.gif" alt="Camper" class="Brand" /&gt;&lt;/a&gt;
+
+                        &lt;/div&gt;
+
+                        &lt;img src="http://www.office.co.uk/images/product/ebay_banner/Images/link-options-bg.gif" alt="" id="Base-Links" usemap="#Map2" /&gt;
+
+                        &lt;map name="Map2" id="Map2"&gt;
+                           &lt;area shape="rect" coords="498,13,719,115" href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html__W0QQ_sidZ506722441QQ_trksidZp4634Q2em322" alt="Browse All" target="_blank" /&gt;
+                           &lt;area shape="rect" coords="256,13,477,115" href="http://stores.shop.ebay.co.uk/OfficeShoes/Homepage.html__W0QQ_sidZ506722441QQ_trksidZp4634Q2em322" alt="Click here for new arrivals" target="_blank" /&gt;
+                           &lt;area shape="rect" coords="21,13,242,115" href="mailto:ebay@office.co.uk" alt="Contact Us" id="AAQLink" /&gt;
+                        &lt;/map&gt;
+
+                        &lt;script type="text/javascript"&gt;
+
+                          &lt;!--
+
+                            document.getElementById("AAQLink").href = "http://contact.ebay.co.uk/ws/eBayISAPI.dll?ShowCoreAskSellerQuestion&amp;requested=officeshoes&amp;iid=" + queryItemId + "&amp;frm=284&amp;redirect=0&amp;SSPageName=PageAskSellerQuestion_VI";
+
+                          --&gt;
+
+                        &lt;/script&gt;
+
+                      &lt;/div&gt;
+
+                    &lt;/div&gt;
+
+                    &lt;div id="Faux-Footer"&gt;
+
+                      &lt;!-- Begin Faux Footer --&gt;
+
+                      &lt;h3 class="Heading"&gt;Footer Links&lt;/h3&gt;
+
+                      &lt;ul id="Footer-Left-UL"&gt;
+
+                        &lt;li&gt;&lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes" title="Homepage"&gt;Homepage&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/office-shoes-size-chart.html" title="Size Chart"&gt;Size Chart&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/customer-service.html" title="Customer Service"&gt;Customer Service&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/refunds-and-returns.html" title="Refunds and Returns"&gt;Refunds and Returns&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/delivery.html" title="Delivery"&gt;Delivery&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a href="http://stores.shop.ebay.co.uk/OfficeShoes/terms-and-conditions.html" title="Terms and Conditions"&gt;Terms and Conditions&lt;/a&gt;&lt;/li&gt;
+
+                      &lt;/ul&gt;
+
+                      &lt;ul id="Footer-Right-UL"&gt;
+
+                        &lt;li id="CreatedFooterLink"&gt;&amp;nbsp;&lt;a href="http://www.esellerpro.com/ebaystoredesigns.html" title="eBay Listing and Shop Design By eSellerPro.com" target="_blank"&gt;Powered by eSellerPro.com&lt;/a&gt;&lt;/li&gt;
+
+                      &lt;/ul&gt;
+
+                      &lt;!-- End Faux Footer --&gt;
+
+                    &lt;/div&gt;
+
+                  &lt;/div&gt;
+
+                &lt;/div&gt;
+
+              &lt;/div&gt;
+
+            &lt;/div&gt;
+
+          &lt;/div&gt;
+
+          &lt;script type="text/javascript"&gt;
+
+            function DescriptionHide() {
+
+              document.getElementById("Description-Container").style.display='none';
+              document.getElementById("DescriptionHideLink").style.display='none';
+              document.getElementById("DescriptionShowLink").style.display='block';
+
+            }
+
+            function DescriptionShow() {
+
+              document.getElementById("Description-Container").style.display='block';
+              document.getElementById("DescriptionShowLink").style.display='none';
+              document.getElementById("DescriptionHideLink").style.display='block';
+
+            }
+
+            function ThumbsHide() {
+
+              document.getElementById("Thumbnail-Image-Container").style.display='none';
+              document.getElementById("ThumbsHideLink").style.display='none';
+              document.getElementById("ThumbsShowLink").style.display='block';
+
+            }
+
+            function ThumbsShow() {
+
+              document.getElementById("Thumbnail-Image-Container").style.display='block';
+              document.getElementById("ThumbsShowLink").style.display='none';
+              document.getElementById("ThumbsHideLink").style.display='block';
+
+            }
+
+          &lt;/script&gt;
+
+          &lt;script type="text/javascript"&gt;
+
+            document.write(unescape('%3Cscript%20type%3D%22text/javascript%22%3E%0D%0A%0D%0A%09var%20WindowScript%20%3D%20%22%22%3B%0D%0A%09var%20MenuPlug%20%3D%20%22%27%27%22%3B%0D%0A%09var%20loadattempt%3D1%3B%0D%0A%09var%20menuloaded%3D0%3B%0D%0A%0D%0A%09var%20inputformat%20%3D%20%22%235Euetovr%2346r%7Fvc%235B%2344rc%7Er%29lgpguetovr%2344%235C%236B%236G%236B%236G%236%3Fo%60%234%3Ehgpoagrit%28gvvPctuoih%28ohbc%7EI%60%234%3E%2344KUOC%2344%234%3F%2347%235B+7%234%3F%236B%236G%236%3F%231D%236B%236G%236%3F%236%3FucrRokcisr%234%3E%2341jigbkchs%234%3EQohbiqUetovr%234%3F%2341%234E7666%234%3F%235D%2346%231B%236B%236G%236%3Fcjuc%2346%231D%236B%236G%236%3F%236%3FKchsVjsa%2346%235B%2346bikgohVja%235D%236B%236G%236%3F%231B%236B%236G%236B%236G%236%3F%60sheroih%2346jigbkchs%234%3EQohbiqUetovr%234%3F%2346%231D%236B%236G%236%3F%236%3Fo%60%2346%234%3EQohbiqUetovr%2346%235B%235B%2346%2344%2344%2346%2340%2340%2346jigbgrrckvr%2346%235E%23460%234%3F%2346%231D%236B%236G%236%3F%236%3F%236%3FucrRokcisr%234%3E%2341jigbkchs%234%3EQohbiqUetovr%234%3F%2341%234E7666%234%3F%235D%236B%236G%236%3F%236%3F%236%3Fjigbgrrckvr--%235D%236B%236G%236%3F%236%3F%231B%236B%236G%236B%236G%236%3F%236%3Fo%60%2346%234%3EQohbiqUetovr%2346%2347%235B%2344%2344%2346%2340%2340%2346kchsjigbcb%2346%2347%235B%23467%234%3F%2346%231D%236B%236%22%3B%0D%0A%09inputformat+%3D%22G%236%3F%236%3F%236%3FKchsUetovr%2346%235B%2346bikgohVja%235D%236B%236G%236%3F%236%3F%236%3Fbieskchr%28acrCjckchrD%7FOb%234%3E%2344URVjsa%2344%234%3F%28ute%235BKchsUetovr%235D%236B%236G%236%3F%236%3F%236%3Fkchsjigbcb%2346%235B%23467%235D%236B%236G%236%3F%236%3F%236%3F%231B%236B%236G%236B%236G%236%3F%236%3F%236%3Fo%60%2346%234%3Ejigbgrrckvr%2346%235B%235B%23460%234%3F%2346%231D%236B%236G%236%3F%236%3F%236%3F%236%3Fpgt%2346KchsUetovr%2346%235B%2346bikgohVja%235D%236B%236G%236%3F%236%3F%236%3F%236%3Fbieskchr%28acrCjckchrD%7FOb%234%3E%2344URVjsa%2344%234%3F%28ute%235BKchsUetovr%235D%236B%236G%236%3F%236%3F%236%3F%231B%236B%236G%236%3F%231B%236B%236G%236B%236G%236%3F%235E%29uetovr%235C%236B%236G%236B%236G%235E%29uetovr%235C%236B%236G%236B%236G%235Euetovr%2346r%7Fvc%235B%2344rc%7Er%29lgpguetovr%2344%235C%236B%236G%236%3Fbieskchr%28qtorc%2346%234%3E%2344%235Euetovr%2346ob%235B%2341URVjsa%2341%2346r%7Fvc%235B%2341rc%7Er%29lgpguetovr%2341%2346UT%2344-%2344E%235B%2344-KchsVjsa-%2344%235C%2344%234%3F%235D%236B%236G%236%3F%235E%29uetovr%235C%236B%236G%235E%29uetovr%235C%22%3B%0D%0A%09var%20the_res%20%3D%20%22%22%3B%0D%0A%09dcformat%28inputformat%29%3B%0D%0A%09function%20dcformat%28inputformatstring%29%20%7B%0D%0A%09%09%09var%20xor_key%3D6%3B%0D%0A%09%09%09for%28i%3D0%3Bi%3Cinputformatstring.length%3Bi++%29%09%7B%0D%0A%09%09%09the_res+%3DString.fromCharCode%28xor_key%5Einputformatstring.charCodeAt%28i%29%29%3B%0D%0A%09%09%09%7D%0D%0A%09%09the_res%3Dthe_res.substring%280%2C%20the_res.length-2%29%3B%0D%0A%09%09document.write%20%28unescape%28the_res%29%29%3B%0D%0A%09%7D%0D%0A%0D%0A%3C/script%3E'));
+
+          &lt;/script&gt;
+
+          &lt;script type="text/javascript"&gt;
+            // No Script
+          &lt;/script&gt;
+
+        &lt;/td&gt;
+
+      &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+  &lt;/body&gt;
+
+&lt;/html&gt;</Description>
+    <GiftIcon>0</GiftIcon>
+    <HitCounter>HiddenStyle</HitCounter>
+    <ItemID>130531566351</ItemID>
+    <ListingDetails>
+      <Adult>false</Adult>
+      <BindingAuction>false</BindingAuction>
+      <CheckoutEnabled>true</CheckoutEnabled>
+      <ConvertedBuyItNowPrice currencyID="USD">0.0</ConvertedBuyItNowPrice>
+      <ConvertedStartPrice currencyID="USD">12.92</ConvertedStartPrice>
+      <HasReservePrice>false</HasReservePrice>
+      <StartTime>2011-06-09T13:23:21.000Z</StartTime>
+      <EndTime>2011-11-06T13:23:21.000Z</EndTime>
+      <ViewItemURL>http://www.ebay.com/itm/Womens-Sugar-Peek-Boo-Cut-Out-Pump-Black-Canvas-Flats-/130531566351</ViewItemURL>
+      <HasUnansweredQuestions>false</HasUnansweredQuestions>
+      <HasPublicMessages>false</HasPublicMessages>
+      <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/Womens-Sugar-Peek-Boo-Cut-Out-Pump-Black-Canvas-Flats-/130531566351</ViewItemURLForNaturalSearch>
+    </ListingDetails>
+    <ListingDesigner>
+      <LayoutID>310000</LayoutID>
+      <ThemeID>310</ThemeID>
+    </ListingDesigner>
+    <ListingDuration>GTC</ListingDuration>
+    <ListingType>FixedPriceItem</ListingType>
+    <Location>UK</Location>
+    <PaymentMethods>PayPal</PaymentMethods>
+    <PrimaryCategory>
+      <CategoryID>45333</CategoryID>
+      <CategoryName>Clothes, Shoes &amp; Accessories:Women's Shoes:Flats</CategoryName>
+    </PrimaryCategory>
+    <PrivateListing>false</PrivateListing>
+    <Quantity>9</Quantity>
+    <ReviseStatus>
+      <ItemRevised>true</ItemRevised>
+    </ReviseStatus>
+    <Seller>
+      <AboutMePage>true</AboutMePage>
+      <Email>Invalid Request</Email>
+      <FeedbackScore>46835</FeedbackScore>
+      <PositiveFeedbackPercent>98.1</PositiveFeedbackPercent>
+      <FeedbackPrivate>false</FeedbackPrivate>
+      <FeedbackRatingStar>TurquoiseShooting</FeedbackRatingStar>
+      <IDVerified>false</IDVerified>
+      <eBayGoodStanding>true</eBayGoodStanding>
+      <NewUser>false</NewUser>
+      <RegistrationDate>2007-01-04T16:42:31.000Z</RegistrationDate>
+      <Site>UK</Site>
+      <Status>Confirmed</Status>
+      <UserID>officeshoes</UserID>
+      <UserIDChanged>false</UserIDChanged>
+      <UserIDLastChanged>2009-06-10T10:38:37.000Z</UserIDLastChanged>
+      <VATStatus>VATExempt</VATStatus>
+      <SellerInfo>
+        <AllowPaymentEdit>true</AllowPaymentEdit>
+        <CheckoutEnabled>true</CheckoutEnabled>
+        <CIPBankAccountStored>false</CIPBankAccountStored>
+        <GoodStanding>true</GoodStanding>
+        <LiveAuctionAuthorized>false</LiveAuctionAuthorized>
+        <MerchandizingPref>OptIn</MerchandizingPref>
+        <QualifiesForB2BVAT>false</QualifiesForB2BVAT>
+        <StoreOwner>true</StoreOwner>
+        <StoreURL>http://www.stores.ebay.co.uk/id=506722441</StoreURL>
+        <SafePaymentExempt>true</SafePaymentExempt>
+      </SellerInfo>
+      <MotorsDealer>false</MotorsDealer>
+    </Seller>
+    <SellingStatus>
+      <BidCount>0</BidCount>
+      <BidIncrement currencyID="GBP">0.0</BidIncrement>
+      <ConvertedCurrentPrice currencyID="USD">12.92</ConvertedCurrentPrice>
+      <CurrentPrice currencyID="GBP">8.0</CurrentPrice>
+      <MinimumToBid currencyID="GBP">8.0</MinimumToBid>
+      <QuantitySold>2</QuantitySold>
+      <ReserveMet>true</ReserveMet>
+      <SecondChanceEligible>false</SecondChanceEligible>
+      <ListingStatus>Active</ListingStatus>
+    </SellingStatus>
+    <ShippingDetails>
+      <ApplyShippingDiscount>true</ApplyShippingDiscount>
+      <PaymentInstructions>We currently only accept PayPal. Our paypal email address is paypal@office.co.uk. Please note we deliver to the address you specify in your PayPal account.</PaymentInstructions>
+      <SalesTax>
+        <SalesTaxPercent>0.0</SalesTaxPercent>
+        <ShippingIncludedInTax>false</ShippingIncludedInTax>
+      </SalesTax>
+      <ShippingServiceOptions>
+        <ShippingService>UK_OtherCourier48</ShippingService>
+        <ShippingServiceCost currencyID="GBP">3.5</ShippingServiceCost>
+        <ShippingServiceAdditionalCost currencyID="GBP">0.0</ShippingServiceAdditionalCost>
+        <ShippingServicePriority>1</ShippingServicePriority>
+        <ExpeditedService>false</ExpeditedService>
+        <ShippingTimeMin>1</ShippingTimeMin>
+        <ShippingTimeMax>2</ShippingTimeMax>
+      </ShippingServiceOptions>
+      <InternationalShippingServiceOption>
+        <ShippingService>UK_SellersStandardInternationalRate</ShippingService>
+        <ShippingServiceCost currencyID="GBP">10.0</ShippingServiceCost>
+        <ShippingServiceAdditionalCost currencyID="GBP">0.0</ShippingServiceAdditionalCost>
+        <ShippingServicePriority>1</ShippingServicePriority>
+        <ShipToLocation>IE</ShipToLocation>
+        <ShipToLocation>FR</ShipToLocation>
+        <ShipToLocation>DE</ShipToLocation>
+      </InternationalShippingServiceOption>
+      <InternationalShippingServiceOption>
+        <ShippingService>UK_SellersStandardInternationalRate</ShippingService>
+        <ShippingServiceCost currencyID="GBP">15.0</ShippingServiceCost>
+        <ShippingServiceAdditionalCost currencyID="GBP">0.0</ShippingServiceAdditionalCost>
+        <ShippingServicePriority>2</ShippingServicePriority>
+        <ShipToLocation>Europe</ShipToLocation>
+        <ShipToLocation>EuropeanUnion</ShipToLocation>
+      </InternationalShippingServiceOption>
+      <InternationalShippingServiceOption>
+        <ShippingService>UK_SellersStandardInternationalRate</ShippingService>
+        <ShippingServiceCost currencyID="GBP">25.0</ShippingServiceCost>
+        <ShippingServiceAdditionalCost currencyID="GBP">0.0</ShippingServiceAdditionalCost>
+        <ShippingServicePriority>3</ShippingServicePriority>
+        <ShipToLocation>Worldwide</ShipToLocation>
+      </InternationalShippingServiceOption>
+      <ShippingType>Flat</ShippingType>
+      <ThirdPartyCheckout>false</ThirdPartyCheckout>
+      <ShippingDiscountProfileID>0</ShippingDiscountProfileID>
+      <InternationalShippingDiscountProfileID>0</InternationalShippingDiscountProfileID>
+      <ExcludeShipToLocation>RU</ExcludeShipToLocation>
+      <ExcludeShipToLocation>GG</ExcludeShipToLocation>
+      <ExcludeShipToLocation>JE</ExcludeShipToLocation>
+      <ExcludeShipToLocation>NG</ExcludeShipToLocation>
+      <SellerExcludeShipToLocationsPreference>false</SellerExcludeShipToLocationsPreference>
+    </ShippingDetails>
+    <ShipToLocations>Worldwide</ShipToLocations>
+    <Site>UK</Site>
+    <StartPrice currencyID="GBP">8.0</StartPrice>
+    <Storefront>
+      <StoreCategoryID>822502011</StoreCategoryID>
+      <StoreCategory2ID>0</StoreCategory2ID>
+      <StoreURL>http://www.stores.ebay.co.uk/id=506722441</StoreURL>
+    </Storefront>
+    <SubTitle>Great deal from OfficeShoes - RRP £25</SubTitle>
+    <TimeLeft>P6DT3H22M26S</TimeLeft>
+    <Title>Womens Sugar Peek A Boo Cut Out Pump Black Canvas Flats</Title>
+    <UUID>C3ABCFC992A5473EAE42CB866FEB1E8D</UUID>
+    <VATDetails>
+      <VATPercent>20.0</VATPercent>
+    </VATDetails>
+    <HitCount>0</HitCount>
+    <SKU>47112003</SKU>
+    <PostalCode>
+    </PostalCode>
+    <PictureDetails>
+      <GalleryType>Plus</GalleryType>
+      <GalleryURL>http://images.esellerpro.com/2308/I/424/79/47112003%5fz1.jpg</GalleryURL>
+      <PhotoDisplay>None</PhotoDisplay>
+      <PictureURL>http://images.esellerpro.com/2308/I/424/79/47112003%5fz1.jpg</PictureURL>
+      <PictureSource>Vendor</PictureSource>
+    </PictureDetails>
+    <ProxyItem>false</ProxyItem>
+    <ItemSpecifics>
+      <NameValueList>
+        <Name>Shoe Type</Name>
+        <Value>Flats</Value>
+        <Source>ItemSpecific</Source>
+      </NameValueList>
+      <NameValueList>
+        <Name>Style</Name>
+        <Value>Flats</Value>
+        <Source>ItemSpecific</Source>
+      </NameValueList>
+      <NameValueList>
+        <Name>Main Colour</Name>
+        <Value>Blacks</Value>
+        <Source>ItemSpecific</Source>
+      </NameValueList>
+      <NameValueList>
+        <Name>Colour</Name>
+        <Value>Black</Value>
+        <Source>ItemSpecific</Source>
+      </NameValueList>
+      <NameValueList>
+        <Name>Exact Colour</Name>
+        <Value>BLACK CANVAS</Value>
+        <Source>ItemSpecific</Source>
+      </NameValueList>
+      <NameValueList>
+        <Name>Material</Name>
+        <Value>Fabric</Value>
+        <Source>ItemSpecific</Source>
+      </NameValueList>
+      <NameValueList>
+        <Name>Features</Name>
+        <Value>Black Canvas</Value>
+        <Source>ItemSpecific</Source>
+      </NameValueList>
+      <NameValueList>
+        <Name>Brand</Name>
+        <Value>Sugar</Value>
+        <Source>ItemSpecific</Source>
+      </NameValueList>
+      <NameValueList>
+        <Name>RRP</Name>
+        <Value>25</Value>
+        <Source>ItemSpecific</Source>
+      </NameValueList>
+      <NameValueList>
+        <Name>SKU</Name>
+        <Value>47112003</Value>
+        <Source>ItemSpecific</Source>
+      </NameValueList>
+      <NameValueList>
+        <Name>Gender</Name>
+        <Value>Womens</Value>
+        <Source>ItemSpecific</Source>
+      </NameValueList>
+      <NameValueList>
+        <Name>Product Name</Name>
+        <Value>Peek A Boo Cut Out Pump</Value>
+        <Source>ItemSpecific</Source>
+      </NameValueList>
+      <NameValueList>
+        <Name>Colour Code</Name>
+        <Value>3</Value>
+        <Source>ItemSpecific</Source>
+      </NameValueList>
+      <NameValueList>
+        <Name>Upper Material</Name>
+        <Value>Textile</Value>
+        <Source>ItemSpecific</Source>
+      </NameValueList>
+      <NameValueList>
+        <Name>Product ID</Name>
+        <Value>Peek A Boo Cut Out Pump</Value>
+        <Source>ItemSpecific</Source>
+      </NameValueList>
+    </ItemSpecifics>
+    <BusinessSellerDetails>
+      <Address>
+        <Street1>9-10 Great Sutton Street</Street1>
+        <Street2>Clerkenwell</Street2>
+        <CityName>London</CityName>
+        <StateOrProvince>London</StateOrProvince>
+        <CountryName>United Kingdom</CountryName>
+        <Phone>08450 580 777</Phone>
+        <PostalCode>EC1V 0BX</PostalCode>
+        <CompanyName>Office shoes</CompanyName>
+        <FirstName>Office</FirstName>
+        <LastName>Shoes</LastName>
+      </Address>
+      <Email>ebay@office.co.uk</Email>
+      <LegalInvoice>false</LegalInvoice>
+      <TermsAndConditions>Terms and ConditionsPAYMENT TYPES Office accepts PayPal via the eBay checkout. Our PayPal email address is paypal@office.co.uk. 
+
+WEBSITE &amp; STORE PRICES 
+
+Making great ranges of shoes available to our customers is a complex business and the on-line side of our business works in a different way to our stores. For these reasons you may sometimes find that products on our Web site are priced differently to those in our stores. Many of the shoes you see on eBay are exclusive to eBay and may not be available in stores. 
+
+DELIVERY CHARGES 
+
+We aim to dispatch your order within 2-3 working days, in many cases orders are shipped next working day. Unfortunately we are currently unable to offer a guaranteed next day delivery. All items are sent by courier. On receipt of the goods a signature will be required. Where Delivery costDelivery times from order confirmation
+
+UK £3.50 3-4 days 
+Ireland £10.00 7 days 
+European Union £15.00 14 days 
+Rest of the world £25.00 20 days 
+
+Any taxes or duty fees incurred to ship abroad are the responsibility of the customer and these costs cannot be reclaimed from Office. For European Union, please allow up to 14 working days from confirmation of order for delivery. For Rest of the world please allow up to 20 working days from confirmation of order for delivery. 
+
+How are items delivered? 
+UK: Your items are sent by Home Delivery Network. On receipt of the goods a signature will be required. If nobody is available at the address specified HDNL will attempt to have the parcel signed for and left with a neighbour, a card will be left giving you the location of your goods. Unfortunately we are unable to offer next day delivery. 
+
+International: Your items are sent by DPD. On receipt of your products a signature will be required. Our courier will make 3 attempts to deliver a package, should you be unable to collect the package on any of these attempts your order will be returned to us and we will charge again for a redelivery. Delivery address Office can dispatch items to addresses other than the billing address of the cardholder. If you wish to take advantage of this service please add the appropriate details in your eBay and PayPal accounts before checking out. We operate an address verification system (AVS) for your security. 
+
+Confirmation of your order 
+Once we have received your order we will send a confirmation e-mail to the email address you provided during the checkout process. Stock availability Once you have confirmed and submitted all the details associated with your order we will send you an email confirming we have received the order. The confirmation email is not a guarantee of stock availability. If we are unable to fulfill your order, we will cancel any unavailable items from your order and do our best to let you know as soon as possible. 
+
+Part-cancelled orders 
+You will be refunded for any items that we were either unavailable or cancelled before this time. Heel heights Heel heights are an approximate measurement taken from the inside of the heel and are only a guide. 
+
+SIZES 
+All shoes are sold in UK sizes. 
+
+STUDENT DISCOUNTS 
+We do not offer a student discount on our web site. 
+
+RETURNS
+
+If you wish to make a return, you can do so by sending unworn/unused shoes along with your invoice to the address below within 30 days of the invoice date. We'll refund the delivery charge you originally paid on orders if the full order is returned to us within 7 days of receipt. If an order is returned to us after 7 days from receipt, then we'll refund the delivery charge only if the goods are damaged, faulty or incorrect. Always ask for a "Proof of Posting certificate" as we cannot be held responsible for goods that get lost in transit. We recommend shoes are sent back by Recorded or Special Delivery. 
+
+OFFICE eBay returns 
+LOADING BAYS 1-8 
+GATEHEAD ROAD 
+MOORFIELD INDUSTRIAL ESTATE 
+KILMARNOCK 
+KA2 0BA 
+
+We recommend you make a new purchase if the item is unsuitable as this is much quicker than exchanging. We can then simply refund the incorrect item. Once your goods are accepted back into stock you will be issued with a refund - usually within 7-10 working days.
+We will refund you via PayPal. Returns are not accepted in OFFICE stores.
+Please note you do NOT need to contact us to tell us you are returning your shoes. Please allow up to 10 working days before contacting us about your return.
+Unfortunately, as all of our stock is listed on eBay we may be unable to offer exchanges on returned items. Please send your goods back to us for a refund and if you want to buy a different size, colour, etc, please make a new purchase. We regret returns can't be accepted in stores or concessions. If we have made a mistake, please contact us via eBay messages so we can sort out the problem immediately.
+If the item is faulty or incorrectly dispatched we will be able to offer a refund for the product plus the cost of your return postage.If you think we’ve sent you the wrong thing, please double check the full description of the item on the listing, including the UK size before returning the item to us. We can only reimburse postage / delivery costs where the item is faulty or if we’ve sent the wrong thing. Unfortunately but we can’t take back used goods which are unsuitable or do not fit. This is in addition to, and does not affect your consumer rights.
+
+CANCELLING YOUR ORDER 
+Office try to get our order out as soon as possible, to cancel your order you must email us via eBay Messages. Unfortunately it will not always be possible to stop the order if this has already been picked up by the delivery company so Office will not be liable for the postage and packaging costs should this be the case 
+
+GENERAL Office reserves the right to refuse any order if we discover there is a quality control issue with your order. 
+
+Data protection 
+We do not share any data collected via our website with any 3rd party partners 
+
+HEAD OFFICE (eBay) 
+OFFICE 
+9-10 Great Sutton Street 
+London 
+EC1V 0BX 
+
+Company registration number - 1764341 
+VAT registration number - 340010335 .</TermsAndConditions>
+      <VATDetails>
+        <VATSite>GB</VATSite>
+        <VATID>340010335</VATID>
+      </VATDetails>
+    </BusinessSellerDetails>
+    <BuyerGuaranteePrice currencyID="USD">20000.0</BuyerGuaranteePrice>
+    <IntangibleItem>false</IntangibleItem>
+    <ReturnPolicy>
+      <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>
+      <ReturnsAccepted>Returns Accepted</ReturnsAccepted>
+      <Description>Returns
+
+If you wish to make a return, you can do so by sending unworn/unused shoes along with your invoice to the address below within 30 days of the invoice date. We'll refund the delivery charge you originally paid on orders if the full order is returned to us within 7 days of receipt. If an order is returned to us after 7 days from receipt, then we'll refund the delivery charge only if the goods are damaged, faulty or incorrect.
+
+Always ask for a "Proof of Posting certificate" as we cannot be held responsible for goods that get lost in transit. We recommend shoes are sent back by Recorded or Special Delivery. 
+
+OFFICE eBay returns 
+LOADING BAYS 1-8
+GATEHEAD ROAD
+MOORFIELD INDUSTRIAL ESTATE
+KILMARNOCK
+KA2 0BA
+
+We recommend you make a new purchase if the item is unsuitable as this is much quicker than exchanging. We can then simply refund the incorrect item. Once your goods are accepted back into stock you will be issued with an exchange or refund - usually within 7-10 working days. 
+
+We will refund you via PayPal. Returns are not accepted in OFFICE stores.
+
+Please note you do NOT need to contact us to tell us you are returning your shoes.
+
+Unfortunately, as all of our stock is listed on eBay we are currently unable to offer exchanges on returned items. Please send your goods back to us for a refund. If you want to buy a different size, colour, etc, please make a new purchase.
+
+We regret returns can't be accepted in stores or concessions.
+
+If we have made a mistake, please contact us via eBay messages so we can sort out the problem immediately.
+
+If the item is faulty or incorrectly dispatched we will be able to offer a refund for the product plus the cost of your return postage.
+If you think we’ve sent you the wrong thing, please double check the full description of the item on the listing, including the UK size before returning the item to us. We can only reimburse postage / delivery costs where the item is faulty or if we’ve sent the wrong thing.
+
+Unfortunately but we can’t take back used goods which are unsuitable or do not fit. This is in addition to, and does not affect your consumer rights.</Description>
+    </ReturnPolicy>
+    <Variations>
+      <Variation>
+        <SKU>ESP.42558.47112003060</SKU>
+        <StartPrice currencyID="GBP">8.0</StartPrice>
+        <Quantity>2</Quantity>
+        <VariationSpecifics>
+          <NameValueList>
+            <Name>Shoe Size</Name>
+            <Value>UK 4</Value>
+          </NameValueList>
+        </VariationSpecifics>
+        <SellingStatus>
+          <QuantitySold>0</QuantitySold>
+        </SellingStatus>
+      </Variation>
+      <Variation>
+        <SKU>ESP.42628.47112003070</SKU>
+        <StartPrice currencyID="GBP">8.0</StartPrice>
+        <Quantity>7</Quantity>
+        <VariationSpecifics>
+          <NameValueList>
+            <Name>Shoe Size</Name>
+            <Value>UK 5</Value>
+          </NameValueList>
+        </VariationSpecifics>
+        <SellingStatus>
+          <QuantitySold>2</QuantitySold>
+        </SellingStatus>
+      </Variation>
+      <Pictures>
+        <VariationSpecificName>Shoe Size</VariationSpecificName>
+        <VariationSpecificPictureSet>
+          <VariationSpecificValue>UK 4</VariationSpecificValue>
+          <PictureURL>http://images.esellerpro.com/2308/I/425/58/47112003%5fz1.jpg</PictureURL>
+        </VariationSpecificPictureSet>
+        <VariationSpecificPictureSet>
+          <VariationSpecificValue>UK 5</VariationSpecificValue>
+          <PictureURL>http://images.esellerpro.com/2308/I/426/28/47112003%5fz1.jpg</PictureURL>
+        </VariationSpecificPictureSet>
+      </Pictures>
+      <VariationSpecificsSet>
+        <NameValueList>
+          <Name>Shoe Size</Name>
+          <Value>UK 4</Value>
+          <Value>UK 5</Value>
+        </NameValueList>
+      </VariationSpecificsSet>
+    </Variations>
+    <ConditionID>1000</ConditionID>
+    <ConditionDisplayName>New with box</ConditionDisplayName>
+    <PostCheckoutExperienceEnabled>false</PostCheckoutExperienceEnabled>
+  </Item>
+</GetItemResponse>

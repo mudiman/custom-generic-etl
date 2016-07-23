@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<getBestMatchItemDetailsResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
+  <ack>Success</ack>
+  <version>1.6.0</version>
+  <timestamp>2011-10-31T10:11:16.355Z</timestamp>
+  <item>
+    <itemId>130531566351</itemId>
+    <title>Womens Sugar Peek A Boo Cut Out Pump Black Canvas Flats</title>
+    <globalId>EBAY-GB</globalId>
+    <subtitle>Great deal from OfficeShoes - RRP £25</subtitle>
+    <primaryCategory>
+      <categoryId>45333</categoryId>
+      <categoryName>Flats</categoryName>
+    </primaryCategory>
+    <galleryURL>http://thumbs4.ebaystatic.com/pict/1305315663518080002_29.jpg</galleryURL>
+    <viewItemURL>http://www.ebay.co.uk/itm/Womens-Sugar-Peek-Boo-Cut-Out-Pump-Black-Canvas-Flats-/130531566351?pt=UK_Women_s_Shoes&amp;var=430022107316&amp;hash=item641f50a0b4</viewItemURL>
+    <paymentMethod>PayPal</paymentMethod>
+    <autoPay>false</autoPay>
+    <location>United Kingdom</location>
+    <country>GB</country>
+    <shippingInfo>
+      <shippingServiceCost currencyId="GBP">3.5</shippingServiceCost>
+      <shippingType>Flat</shippingType>
+      <shipToLocations>Worldwide</shipToLocations>
+    </shippingInfo>
+    <sellingStatus>
+      <currentPrice currencyId="GBP">8.0</currentPrice>
+      <convertedCurrentPrice currencyId="GBP">8.0</convertedCurrentPrice>
+      <sellingState>Active</sellingState>
+      <timeLeft>P6DT3H17M5S</timeLeft>
+    </sellingStatus>
+    <listingInfo>
+      <bestOfferEnabled>false</bestOfferEnabled>
+      <buyItNowAvailable>false</buyItNowAvailable>
+      <startTime>2011-06-09T13:23:21.000Z</startTime>
+      <endTime>2011-11-06T13:28:21.000Z</endTime>
+      <listingType>FixedPrice</listingType>
+      <gift>false</gift>
+    </listingInfo>
+    <galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/130531566351_1_0_1_002.jpg</galleryPlusPictureURL>
+    <condition>
+      <conditionId>1000</conditionId>
+      <conditionDisplayName>New with box</conditionDisplayName>
+    </condition>
+    <itemRank>1</itemRank>
+    <itemRankWithinGroup>1</itemRankWithinGroup>
+    <quantityAvailable>5</quantityAvailable>
+    <quantitySold>2</quantitySold>
+    <bestMatchData>
+      <freeShipping>false</freeShipping>
+      <impressionCountRange>
+        <min>10001</min>
+        <max>25000</max>
+      </impressionCountRange>
+      <salesCount>2</salesCount>
+      <viewItemCount>53</viewItemCount>
+      <watchCount>0</watchCount>
+      <salesPerImpression>1.1428571428571428E-4</salesPerImpression>
+      <salesPerViewItem>0.03773584905660377</salesPerViewItem>
+      <viewItemPerImpression>0.0030285714285714286</viewItemPerImpression>
+    </bestMatchData>
+  </item>
+  <item>
+    <itemId>130531566351</itemId>
+    <title>Womens Sugar Peek A Boo Cut Out Pump Black Canvas Flats</title>
+    <globalId>EBAY-GB</globalId>
+    <subtitle>Great deal from OfficeShoes - RRP £25</subtitle>
+    <primaryCategory>
+      <categoryId>45333</categoryId>
+      <categoryName>Flats</categoryName>
+    </primaryCategory>
+    <galleryURL>http://thumbs4.ebaystatic.com/pict/1305315663518080001_20.jpg</galleryURL>
+    <viewItemURL>http://www.ebay.co.uk/itm/Womens-Sugar-Peek-Boo-Cut-Out-Pump-Black-Canvas-Flats-/130531566351?pt=UK_Women_s_Shoes&amp;var=430022107315&amp;hash=item641f50a0b3</viewItemURL>
+    <paymentMethod>PayPal</paymentMethod>
+    <autoPay>false</autoPay>
+    <location>United Kingdom</location>
+    <country>GB</country>
+    <shippingInfo>
+      <shippingServiceCost currencyId="GBP">3.5</shippingServiceCost>
+      <shippingType>Flat</shippingType>
+      <shipToLocations>Worldwide</shipToLocations>
+    </shippingInfo>
+    <sellingStatus>
+      <currentPrice currencyId="GBP">8.0</currentPrice>
+      <convertedCurrentPrice currencyId="GBP">8.0</convertedCurrentPrice>
+      <sellingState>Active</sellingState>
+      <timeLeft>P6DT3H17M5S</timeLeft>
+    </sellingStatus>
+    <listingInfo>
+      <bestOfferEnabled>false</bestOfferEnabled>
+      <buyItNowAvailable>false</buyItNowAvailable>
+      <startTime>2011-06-09T13:23:21.000Z</startTime>
+      <endTime>2011-11-06T13:28:21.000Z</endTime>
+      <listingType>FixedPrice</listingType>
+      <gift>false</gift>
+    </listingInfo>
+    <galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/130531566351_1_0_1_001.jpg</galleryPlusPictureURL>
+    <condition>
+      <conditionId>1000</conditionId>
+      <conditionDisplayName>New with box</conditionDisplayName>
+    </condition>
+    <itemRank>2</itemRank>
+    <itemRankWithinGroup>2</itemRankWithinGroup>
+    <quantityAvailable>2</quantityAvailable>
+    <quantitySold>0</quantitySold>
+    <bestMatchData>
+      <freeShipping>false</freeShipping>
+      <impressionCountRange>
+        <min>10001</min>
+        <max>25000</max>
+      </impressionCountRange>
+      <salesCount>2</salesCount>
+      <viewItemCount>53</viewItemCount>
+      <watchCount>0</watchCount>
+      <salesPerImpression>1.1428571428571428E-4</salesPerImpression>
+      <salesPerViewItem>0.03773584905660377</salesPerViewItem>
+      <viewItemPerImpression>0.0030285714285714286</viewItemPerImpression>
+    </bestMatchData>
+  </item>
+</getBestMatchItemDetailsResponse>
